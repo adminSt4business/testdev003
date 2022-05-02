@@ -1,0 +1,4 @@
+[submodule "adminSt4business/testdev001"]
+	path = adminSt4business/testdev001
+	url = git@github.com:adminSt4business/testdev001.git
+	branch = dev001
